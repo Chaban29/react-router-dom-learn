@@ -1,0 +1,22 @@
+
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 600;
+  color: #123;
+}
+
+header > ul {
+  padding: 20px 0 20px 30px;
+  display: flex;
+  align-items: center;
+  gap: 70px;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #123;
+  text-decoration: none;
+}
